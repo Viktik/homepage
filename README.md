@@ -1,7 +1,9 @@
 # Homepage
 Hello, this is my first [GitHub](https://github.com/) project. Basically it's my resume.
-This web-site includes information _about my:_
-__1.Education
-2.Skills
-3.Volunteer experience
-4.Contacts__
+This web-site includes information _about my:_<br>
+<ul>
+  <li>Education</li>
+  <li>Skills</li>
+  <li>Volunteer experience</li>
+  <li>Contacts</li>
+</ul>
